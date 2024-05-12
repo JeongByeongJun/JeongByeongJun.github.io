@@ -1,8 +1,8 @@
-#Me\
+#Introduction\
 Hello, I'm ByeongJun Jeong, undergraduate student majoring Software @SKKU.\
 I'm working for SoyNet as a industry - university cooperation project\
 \
-#SKills\
+#Skills\
 I've learned C, C++, Python language. \
 For python, I've studied Matplotlib, pytorch, tensorflow libraries.\
 I'm using Visual Studio Code for the programming tool.\
