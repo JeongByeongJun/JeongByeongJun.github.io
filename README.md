@@ -15,7 +15,5 @@ I've taken System Programming and Data Structure course for my major. \
 I've got Dean's List for the 2021-2 semester.\
 \
 #Contact\
-E-Mail\
-bjbj2580@g.skku.edu\
-Github \
-https://github.com/JeongByeongJun
+E-Mail : bjbj2580@g.skku.edu\
+Github : https://github.com/JeongByeongJun
